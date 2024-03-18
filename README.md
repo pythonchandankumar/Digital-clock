@@ -1,0 +1,1 @@
+This project is a simple digital clock implemented using HTML, CSS, and JavaScript. It provides a clean and minimalistic interface to display the current time accurately. With its modular structure and easy-to-understand codebase, it serves as a great learning resource for beginners and a practical utility for anyone in need of a digital clock solution.
